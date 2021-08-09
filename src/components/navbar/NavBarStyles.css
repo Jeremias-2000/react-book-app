@@ -1,0 +1,17 @@
+.navBar{
+    background-color: blue;
+    width: 100%;
+    height: 50px;
+}
+
+.navBar ul{
+    display: flex;
+    margin-right: 100px;
+    float: right;
+}
+.navBar li{
+    margin:auto 20px auto 40px;
+    list-style: none;
+    color: #ffffff;
+    cursor: pointer;
+}
