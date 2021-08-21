@@ -3,10 +3,13 @@ import './SignInStyles.css';
 import '../../global.css'
 import { FiMail,FiLock, FiLogIn} from "react-icons/fi";
 import {Link} from 'react-router-dom';
+import NavBar from '../../components/navbar';
 const Home = () => {
     return (
         <>
+        
         <div className="container">
+            <NavBar/>
             <h1>Livraria</h1>
             <div className='container_login'>
                 <h2> Login</h2>

@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2? família=Montserrat:wght@400;900&display=swap');
+@import 'antd/dist/antd.min.css';
 body{
 
     background: rgb(8,17,266);
